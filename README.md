@@ -2,6 +2,8 @@
   ![badge](https://img.shields.io/badge/license-MIT-yellow)
   ## Description
   --This app allows the user to create a preset database and connect to it via API calls and perform various CRUD operations to the tables in the database. This app uses express, mysql2, sequelize, and dotenv packages 
+  --[Watch demo video 1](https://youtu.be/fy5Gx3ISLP8)
+  --[Watch demo video 2](https://youtu.be/G8tBvmGxMWs)
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)

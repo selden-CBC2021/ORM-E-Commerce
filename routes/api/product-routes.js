@@ -86,7 +86,7 @@ router.put('/:id', (req, res) => {
   Product.update(req.body, {
     where: {
       //id or product_id?
-      product_id: req.params.id,
+      id: req.params.id,
     },
   })
     .then((product) => {
